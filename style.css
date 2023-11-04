@@ -1,0 +1,391 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: "Poppins",sans-serif;
+    
+}
+.logo1{
+    height: 100px;
+    padding-bottom: -110px;
+    padding-left: 55px;
+}
+body{
+    background: linear-gradient( rgba(0, 0, 0, 0.6), rgba(20, 1, 1, 0.5)),url('1.jpg');
+    background-size: cover;
+    background-position: top;
+    backdrop-filter: blur(3px);
+    height: 1%;
+}
+.button{
+    display: flex;
+    position: absolute;
+    margin-left: 1050px;
+    margin-top: -60px;
+}
+.button2{
+    margin-left: 30px;
+    height: 35px;
+    width: 80px;
+    color:white;
+    background-color: red;
+    border: 1px solid red;
+    border-radius: 5px;
+    font-size: 15px;
+    margin-top: -3px;
+}
+.translate{
+    height: 20px;
+}
+i{
+    height: 10px;
+}
+.choose1 select {
+    background-color: transparent;
+    color: aliceblue;
+    height: 30px;
+    width: 110px;
+    padding-left: 10px;
+    border: 2px solid gray;
+    border-radius: 2px;
+}
+h1{
+    font-size:45px;
+    color: white;
+    position: absolute;
+    font-weight: 900;
+    /* max-height: 0cqmax; */
+    margin-left: 245px;
+    margin-top: 170px;    
+}
+h2{
+    color: white;
+    position: absolute;
+    margin-left: 460px;
+    margin-top: 250px;  
+    font-family: Netflix Sans,Helvetica Neue,Segoe UI,Roboto,Ubuntu,sans-serif;
+    font-weight: 400;
+    font-size:28px;
+}
+h3{
+    color: white;
+    position: absolute;
+    margin-left: 345px;
+    margin-top: 310px;  
+    font-family: Netflix Sans,Helvetica Neue,Segoe UI,Roboto,Ubuntu,sans-serif;
+    font-weight: 400;
+    font-size:20px;
+}
+.email{
+    position: absolute;
+    margin-left: 370px;
+    margin-top: 360px;  
+}
+.email > input{
+    height: 50px;
+    width: 340px;
+    background: linear-gradient( rgba(0, 0, 0, 0.968), rgba(0, 0, 0, 0.932)),url('1.jpg');
+    color: aliceblue;
+    border: 1px solid gray;
+    padding-left: 20px;
+    font-size: 15px;   
+}
+.email input:hover{
+    border: 2px solid gray;
+}
+.button3 button {
+    height: 50px;
+    margin-left: 750px;
+    width: 180px;
+    color:white;
+    background-color: red;
+    border: 1px solid red;
+    border-radius: 5px;
+    font-size: 25px;
+    margin-top: 360px;
+    position:absolute;
+}
+.image1{
+    background-color:black;
+    /* background-color: transparent; */
+    height: 1400px;
+    width: 100%;
+    position: absolute;
+    margin-top: 600px;
+}
+.image1 img{
+    height: 250px;
+    margin-top: 150px;
+    margin-left: 850px;
+    border: 2px solid gray;
+}
+.box1{
+    margin-top: 620px;
+    margin-left: 20px;
+}
+.box11{
+    color: aliceblue;
+    font-size: 25px;
+    margin-left: 170px;
+}
+.box111{
+    color: aliceblue;
+    font-size: 25px;
+    margin-left: 170px;
+    margin-top: 280px;
+}
+.image2 img {
+    height: 250px;
+    margin-top: 130px;
+    margin-left: 270px;
+    border: 2px solid gray;
+    position: absolute;
+    background-color:black;
+}
+.image2{
+    width: 100%;
+    position: absolute;
+    margin-top: 600px;
+}
+.tv1 img {
+    height: 450px;
+    position: absolute;
+    margin-top: -350px;
+    margin-left: 780px;
+    border: 2px solid black;
+}
+.box2{
+    height: 70px;
+    position: absolute;
+    margin-top: 720px;
+    margin-left: 120px;
+}
+.box11{
+    color: aliceblue;
+    font-size: 25px;
+    margin-left: 200px;
+}
+.watch1 ul li{
+    color: aliceblue;
+    margin-left: 700px;
+}
+.head1{
+    list-style-type: none;
+    font-size: 50px;
+    font-weight: 900;
+    margin-top: -330px;
+}
+.head2{
+    font-size: 25px;
+    list-style-type: none;
+    margin-top: 10px;
+}
+.head3{
+    list-style-type: none;
+    font-size: 25px;
+}
+.a1{
+    background-color: black;
+    height: 600px;
+    width: 100%;
+    position: absolute;
+    margin-top: 1250px;
+}
+.a1 img{
+    margin-left: 800px;
+    margin-top: 50px;
+}
+.watch2 ul li{
+    color: aliceblue;
+    margin-left: 200px;
+}
+.head5{
+    list-style-type: none;
+    font-size: 50px;
+    font-weight: 900;
+    margin-top: -360px;
+}
+.head6{
+    font-size: 25px;
+    list-style-type: none;
+    margin-top: 10px;
+}
+.head7{
+    list-style-type: none;
+    font-size: 25px;
+}
+.head8{
+    list-style-type: none;
+    font-size: 25px;
+}
+.a2{
+    background-color:black;
+    height: 900px;
+    width: 100%;
+    position: absolute;
+    margin-top: 1850px;
+}
+.fot1{
+    font-size: 55px;
+    margin-top: 60px;
+    margin-left: 315px;
+}
+.qna{
+    height: 500px;
+    width: 1200px;
+    display: grid;
+    gap: 5px;
+    margin-top: 200px;
+    margin-left: 110px;
+}
+.qna button{
+    background-color:rgb(56, 55, 55) ;
+    color: aliceblue;
+    font-size: 25px;
+    padding-right: 850px;
+    float: right;
+}
+.b1{
+    background-color: rgb(41, 41, 41);
+    height: 75px;
+    color: aliceblue;
+    font-size: 25px;
+    
+}
+.b2{
+    background-color: rgb(41, 41, 41);
+    height: 75px;
+    color: aliceblue;
+    font-size: 25px;
+}
+.b3{
+    background-color: rgb(41, 41, 41);
+    height: 75px;
+    color: aliceblue;
+    font-size: 25px;
+}
+.b4{
+    background-color: rgb(41, 41, 41);
+    height: 75px;
+    color: aliceblue;
+    font-size: 25px;
+}
+.b5{
+    background-color: rgb(41, 41, 41);
+    height: 75px;
+    color: aliceblue;
+    font-size: 25px;
+}
+.b6{
+    background-color: rgb(41, 41, 41);
+    height: 75px;
+    color: aliceblue;
+    font-size: 25px;
+}
+.b1 p{
+    margin-top: 20px;
+    margin-left: 25px;
+}
+.b2 p{
+    margin-top: 20px;
+    margin-left: 25px;
+}
+.b3 p{
+    margin-top: 20px;
+    margin-left: 25px;
+}
+.b4 p{
+    margin-top: 20px;
+    margin-left: 25px;
+}
+.b4 p{
+    margin-top: 20px;
+    margin-left: 25px;
+}
+.b5 p{
+    margin-top: 20px;
+    margin-left: 25px;
+}
+.b6 p{
+    margin-top: 20px;
+    margin-left: 25px;
+}
+.h3 h3{
+    font-size: 22px;
+    color: aliceblue;
+    position: absolute;
+    margin-top: 40px;
+    margin-left: 240px;
+}
+.email1{
+    position: absolute;
+    margin-left: 310px;
+    margin-top: 590px;  
+}
+.email1 > input{
+    height: 50px;
+    width: 340px;
+    background: linear-gradient( rgba(0, 0, 0, 0.968), rgba(0, 0, 0, 0.932)),url('1.jpg');
+    color: aliceblue;
+    border: 1px solid gray;
+    padding-left: 20px;
+    font-size: 15px;   
+}
+.button4 button {
+    height: 50px;
+    margin-left: 800px;
+    width: 180px;
+    color:white;
+    background-color: red;
+    border: 1px solid red;
+    border-radius: 5px;
+    font-size: 25px;
+    margin-top: 90px;
+    position:absolute;
+}
+.button4 button:hover{
+    background-color: brown;
+    cursor: pointer;
+}
+.button3 button:hover{
+    background-color: brown;
+    cursor: pointer;
+}
+.button2:hover{
+    background-color: brown;
+    cursor: pointer;
+}
+.b1:hover{
+    background-color: rgb(74, 72, 72);
+    cursor: pointer;
+}
+.b2:hover{
+    background-color: rgb(74, 72, 72);
+    cursor: pointer;
+}
+.b3:hover{
+    background-color: rgb(74, 72, 72);
+    cursor: pointer;
+}
+.b4:hover{
+    background-color: rgb(74, 72, 72);
+    cursor: pointer;
+}
+.b5:hover{
+    background-color: rgb(74, 72, 72);
+    cursor: pointer;
+}
+.b6:hover{
+    background-color: rgb(74, 72, 72);
+    cursor: pointer;
+}
+.box1 p {
+    color: aliceblue;
+    position: absolute;
+    font-weight: 900;
+    font-size: 45px;
+    margin-left: 170px;
+    margin-top: 185px;
+}
+.box11{
+    margin-left: 170px;
+}
